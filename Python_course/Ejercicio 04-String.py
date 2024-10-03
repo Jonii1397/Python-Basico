@@ -1,0 +1,5 @@
+print("Este ejercicio imprimirá las iniciales de un usuario")
+nombre = input("Introduce su nombre: ")
+ap1 = input ("Introduce su primer apellido: ")
+ap2 = input ("Introduce su segundo apellido: ")
+print ("Sus iniciales son " , nombre[0] + ap1[0] + ap2[0])
