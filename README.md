@@ -10,7 +10,7 @@ Estos apuntes están diseñados para **aquellos que están comenzando** a explor
 
 ## ¿Por qué usar estos apuntes?
 
-🔹 **Simples y directos**: No te abrumaremos con información innecesaria. Solo lo básico que necesitas saber.  
+🔹 **Simples y directos**: No te abrumes con información innecesaria. Solo lo básico que necesitas saber.  
 🔹 **Visuales**: Las imágenes ayudan a reforzar lo que lees.  
 🔹 **Prácticos**: Aprenderás haciendo con ejercicios reales.
 
