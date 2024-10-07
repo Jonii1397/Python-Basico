@@ -23,7 +23,7 @@
 	math.log(20) devuelve el algoritmo natural de 20 a la base
 	math.pi
 	python math module para aprender mas
-	[https://docs.python.org/3/library/math.html]()
+	https://docs.python.org/3/library/math.html
 	Ejercicio 06-Number.
 
 ==Listas y Tuplas.==
