@@ -51,4 +51,13 @@ Ahora veamos algunos:
 	Con x creamos un archivo de texto que no está creado.
 	![[Pasted image 20241007134247.png]]
 ==Lectura Excel==
-
+	En la carpeta de los ejercicios hay un archivo Excel que podemos usar de ejemplo.
+	pip install pandas y xlrd por separado.
+	Con panda.ExcelFile("excel.xlsx") Abrimos el documento y para ver el nombre de las hojas file.sheet_names si no funciona, instalar pip install openpyxl.
+	file.parse(''). Para ver la hoja que queremos.
+	Para imprimir una columna, se usa el punto y el nombre de cada columna.
+	El comando sum(), suma los elementos de una columna.
+	.loc[indice] imprime la fila correspondiente a ese índice.
+	sheet.set_index("Columna", inplace = True) Reemplaza el índice.
+	sheet = sheet.reset_index()-Resetea el índice.
+	sheet.loc[sheet["Amount"] == 99]Devuelve la fila que corresponda con esa condición, .idmax(), etc...
