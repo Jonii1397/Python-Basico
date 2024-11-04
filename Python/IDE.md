@@ -14,6 +14,9 @@ El comando round redondea y con round ( 3.14151 , 2) redondea a dos decimales.
 math.factorial(3) haría 3 * 2 , el 4, 4 * 3 y así sucesivamente
 str.lower(). Devuelve el string en minúscula y higher en mayúscula
 random.randint(0,2) Devuelve un número random entre 0 y 2
+abs -> devuelve un numero absoluto, es decir, no distingue de signos.
+abs(-1)->1
+
 ==Variables:==
 Las variables se utilizan para guardar información : números, textos etc.
 Los variables pueden contener letras , números y guiones bajos por eso no han de llevar ningun carácter especial pero no pueden empezar con números y son sensibles a las mayúsculas y minúsculas.
